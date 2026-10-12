@@ -1,4 +1,4 @@
-# WrightNota / 现场记 public site
+# WrightNota / 技录 public site
 
 Minimal bilingual product, privacy and support collateral. Plain HTML and shared CSS; no build chain, JavaScript, external fonts or tracking. `.nojekyll` serves the static files directly.
 
