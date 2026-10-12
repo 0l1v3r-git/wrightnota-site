@@ -17,4 +17,4 @@ Public URLs:
 
 English uses #english; Simplified Chinese uses #chinese. The base Privacy and Support URLs remain stable for store metadata.
 
-A dedicated support email remains to be added to both languages of Privacy and Support. The current pages explain that this contact channel is not yet available.
+Public support contact: wrightnota@outlook.com, shown in both languages on Privacy and Support.

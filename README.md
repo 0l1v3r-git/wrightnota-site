@@ -12,7 +12,7 @@ English and Simplified Chinese share each page. Explicit links select `#english`
 
 ## Contact
 
-A dedicated WrightNota support email has not yet been provided. The public pages state that the email channel is not yet available. No DueBak contact is reused. Add the approved email to both languages on Privacy and Support when available.
+Official public support email: wrightnota@outlook.com. Both languages on Privacy and Support provide clickable mailto links. No DueBak contact is reused. No website contact input remains outstanding.
 
 ## Publication
 
